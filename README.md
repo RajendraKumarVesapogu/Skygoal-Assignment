@@ -6,7 +6,7 @@
 
 ### IDE:
 
-recommended IDE for development : Visual Studio Code with all your extensinos for Node.js and mySQL.
+recommended IDE for development : Visual Studio Code with all your extensinos for Node.js and express.
 
 Use thunderclient to test the API end points (Postman Alternative).
 
