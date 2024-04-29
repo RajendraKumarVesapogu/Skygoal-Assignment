@@ -12,6 +12,8 @@ Use thunderclient to test the API end points (Postman Alternative).
 
 run `npm install` in the terminal to get all the requred dependensies.
 
+run `npm run dev` to start the server
+
 ### Environment Variables:
 
 ```
